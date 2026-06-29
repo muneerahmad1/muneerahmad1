@@ -1,16 +1,60 @@
-## Hi there 👋
+```markdown
+# Hi 👋, I'm Muneer Ahmad
 
-<!--
-**muneerahmad1/muneerahmad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | DevSecOps Enthusiast | Aspiring Security Engineer
 
-Here are some ideas to get you started:
+I'm a BS Cybersecurity student at Air University, Pakistan, passionate about cybersecurity, DevSecOps, cloud security, and offensive security. I enjoy learning by building practical projects and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Cybersecurity Student at Air University
+- 🔒 Passionate about Cybersecurity and DevSecOps
+- 💻 Learning Python, Linux, Networking, Operating Systems, and Cloud Security
+- 🌱 Currently exploring penetration testing
+- 🎯 Working towards becoming a Security Engineer
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- C++
+
+### Cybersecurity
+- Linux
+- Wireshark
+- Nmap
+
+### DevOps & Cloud
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- AWS (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
+- Computer Networks
+- Operating Systems
+- DevSecOps
+- Cloud Security
+- Ethical Hacking
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/![Uploading cbt.png…]()
+muneer-ahmad-wazir/
+
+---
+
+> "Security is not a product, but a process."
+```
