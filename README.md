@@ -50,8 +50,7 @@ I'm a BS Cybersecurity student at Air University, Pakistan, passionate about cyb
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/![Uploading cbt.png…]()
-muneer-ahmad-wazir/
+- GitHub: https://github.com/muneerahmad1
+- LinkedIn: https://linkedin.com/in/muneer-ahmad-wazir/
 
 ```
