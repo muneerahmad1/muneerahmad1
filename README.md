@@ -54,7 +54,4 @@ I'm a BS Cybersecurity student at Air University, Pakistan, passionate about cyb
 - LinkedIn: https://linkedin.com/in/![Uploading cbt.png…]()
 muneer-ahmad-wazir/
 
----
-
-> "Security is not a product, but a process."
 ```
